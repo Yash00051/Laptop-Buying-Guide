@@ -1,0 +1,5 @@
+- The program stores laptop details in a dataset (list of dictionaries) with specifications like RAM, storage, display, processor, and price.
+- It asks the user for inputs such as budget, display type, resolution, brightness, screen size, RAM, and storage preference.
+- Based on the entered budget, the program checks which laptops fall within that price range using multiple conditional statements.
+- A loop iterates through the dataset and prints laptops that match the user’s budget and other requirements.
+- The final output displays the laptop(s) with their specifications, helping the user choose according to their needs.
